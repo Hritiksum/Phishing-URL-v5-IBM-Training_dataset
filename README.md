@@ -24,19 +24,19 @@ S.NO | URL | Property | Name | Organisation | Address | City | State | Zipcode |
 
 ## Phishing Web
 UK Government Phishing page
-![Phishing](/MUD_result img/gov.uk_M.png)
+![Phishing](/ResultImg/gov.uk_M.png)
 Bank- ChaseBank phishing page
-![Phishing](/MUD_result img/ChaseBank_M.png)
+![Phishing](/ResultImg/ChaseBank_M.png)
 Netflix Phishing page
-![Phishing](/MUD_result img/Netflix_M.png)
+![Phishing](/ResultImg/Netflix_M.png)
 Adobe login phishing page
-![Phishing](/MUD_result img/Adobe_M.png)
+![Phishing](/ResultImg/Adobe_M.png)
 Facebook phishing page
-![Phishing](/MUD_result img/fb_M.png)
+![Phishing](/ResultImg/fb_M.png)
 Microsoft phishing page
-![Phishing](/MUD_result img/Microsoft_M.png)
+![Phishing](/ResultImg/Microsoft_M.png)
 Paypal Payment phishing page
-![Phishing](/MUD_result img/paypal_M.png)
+![Phishing](/ResultImg/paypal_M.png)
 Yahoo phishing page
 Bank- ChaseBank phishing site
-![Phishing](/MUD_result img/yahoo_M.png)
+![Phishing](/ResultImg/yahoo_M.png)
