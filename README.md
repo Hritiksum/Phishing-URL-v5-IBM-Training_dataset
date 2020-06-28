@@ -19,7 +19,7 @@ S.NO | URL | Property | Name | Organisation | Address | City | State | Zipcode |
 1 | https://www.airtelxstream.in/livetv-channels/sony-sab/mwtv_livetvchannel_347 | Legitimate | airtelxstream.in | None | None | None | Delhi | None | IN | None | airtelxstream.in | 5793 | GoDaddy.com LLC | 43:56.8
 2 | https://myjiocare.com/sony-liv-premium-account-free/ | Legitimate | MYJIOCARE.COM | None | india | mumbai | Maharashtra | 421001 | IN | abuse-contact@publicdomainregistry.comnsk.rockstar97@gmail.comabuse@bigrock.com | MYJIOCARE.COM | 2272473 | BigRock Solutions Ltd | 46:49.2
 3 | https://www.youtube.com/watch?v=dnbkysr3hoo | Legitimate | YOUTUBE.COMyoutube.com | Google LLC | None | None | CA | None | US | abusecomplaints@markmonitor.comwhoisrequest@markmonitor.com | YOUTUBE.COMyoutube.com | 2 | MarkMonitor Inc. | 49:58.2
-4 | https://www.youtube.com/watch?v=pyc61thl3o8 | Legitimate | YOUTUBE.COMyoutube.com | Google LLC | None | None | CA | None | US | busecomplaints@markmonitor.comwhoisrequest@markmonitor.com | YOUTUBE.COMyoutube.com | 2	MarkMonitor Inc. | 53:08.6
+4 | https://www.youtube.com/watch?v=pyc61thl3o8 | Legitimate | YOUTUBE.COMyoutube.com | Google LLC | None | None | CA | None | US | busecomplaints@markmonitor.comwhoisrequest@markmonitor.com | YOUTUBE.COMyoutube.com | 2	| MarkMonitor Inc. | 53:08.6
 .. | .. | .. | .. | .. | .. | .. | .. | .. | .. | .. | .. | .. | .. | ..
 
 ## Phishing Web
