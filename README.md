@@ -24,7 +24,7 @@ S.NO | URL | Property | Name | Organisation | Address | City | State | Zipcode |
 
 ## Phishing Web
 ### WHO Phishing page
-![Phishing](/ResultImg/who_covid19_M.png)
+![Phishing](/ResultImg/who_covid19_M.jpg)
 ### UK Government Phishing page
 ![Phishing](/ResultImg/gov.uk_M.png)
 ### Bank- ChaseBank phishing page
