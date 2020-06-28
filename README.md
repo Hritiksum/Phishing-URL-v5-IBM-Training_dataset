@@ -9,9 +9,8 @@ Chrome Extension repository : https://github.com/abhisheksaxena1998/ChromeExtens
 
 Life is dependent mainly on internet in todays life for moving business online, or making online transactions. Resulting in cyber-thefts and cyber-frauds increasing exponentially day by day, leading to compromised security and infiltration of hackers or third parties while transacting online.
 
-When predicting URL validity and phishing assets, the MUD application fetches sensitive and dynamic data about URLs such as its domain, registrar, registrar address, organization, and Alexa web traffic rank.
-
 ## Result Dataset
+When predicting URL validity and phishing assets, the MUD application fetches sensitive and dynamic data about URLs such as its domain, registrar, registrar address, organization, and Alexa web traffic rank.
 
 S.NO | URL | Property | Name | Organisation | Address | City | State | Zipcode | Country | E-mails | Domain | Alexa Rank | Registrar | time
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
